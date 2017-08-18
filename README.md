@@ -1,1 +1,1 @@
-# numerical_mooc_module1
+# numerical_mooc_projects
